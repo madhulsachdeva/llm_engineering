@@ -6,7 +6,7 @@ git add .
 echo ""
 echo "Done!, Now commiting all changes to branch... \n"
 echo ""
-git commit -a -m "Auto commit"
+git commit -a #-m "Auto commit"
 echo ""
 echo " Done, Now pushing branch changes to GitHub, please supply secret pass phrase when prompted... \n"
 echo ""
